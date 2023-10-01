@@ -26,7 +26,3 @@ Bu kaynak, Python öğrenmeye başlamak isteyenler için tasarlanmıştır. Aşa
 ## Katkıda Bulunma
 
 Bu depo her zaman geliştirilmeye açıktır. Katkıda bulunmak veya hataları düzeltmek için bir Pull Request açabilirsiniz. Katkıda bulunma rehberi için [CONTRIBUTING.md](CONTRIBUTING.md) dosyasını inceleyin.
-
-## Lisans
-
-Bu depo [MIT lisansı](LICENSE) altında lisanslanmıştır. Daha fazla bilgi için lisans dosyasını inceleyin.
