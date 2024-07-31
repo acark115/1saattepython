@@ -22,7 +22,4 @@ Bu kaynak, Python öğrenmeye başlamak isteyenler için tasarlanmıştır. Aşa
 2. İlgilendiğiniz konuyu seçin ve ilgili klasöre gidin.
 3. README dosyasını okuyun ve öğrenmek istediğiniz konu hakkındaki notları inceleyin.
 4. Örnek kodları çalıştırarak pratiğinizi geliştirin.
-
-## Katkıda Bulunma
-
-Bu depo her zaman geliştirilmeye açıktır. Katkıda bulunmak veya hataları düzeltmek için bir Pull Request açabilirsiniz. Katkıda bulunma rehberi için [CONTRIBUTING.md](CONTRIBUTING.md) dosyasını inceleyin.
+5. Kodlardaki yorum satırlarını okuyarak kodları anlayın.
